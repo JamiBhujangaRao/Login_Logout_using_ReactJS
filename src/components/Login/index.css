@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.login {
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 25px;
+  text-align: center;
+  background-color: #f8fafc;
+  border-width: 0px;
+  height: 55px;
+  width: 120px;
+}
